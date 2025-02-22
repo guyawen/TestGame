@@ -13,6 +13,7 @@ public class PlayerController : MonoBehaviour
     private bool isGrounded;
     private float moveInput;
 
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
