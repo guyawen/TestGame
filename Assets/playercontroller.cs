@@ -34,6 +34,7 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+
     void FixedUpdate()
     {
         // 角色移动
