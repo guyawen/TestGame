@@ -3,6 +3,7 @@ using UnityEditor;
 using System.IO;
 using System.Linq;
 using UnityEngine.U2D.Animation;
+using System;
 
 #if UNITY_EDITOR
 public class SpriteAnimationGenerator : EditorWindow
@@ -105,3 +106,5 @@ public class SpriteAnimationGenerator : EditorWindow
     }
 }
 #endif
+
+
